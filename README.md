@@ -165,6 +165,18 @@ allowing direct comparison between sequential and parallel implementations.
 
 ---
 
+## Performance Results
+
+### Speedup
+
+![Speedup](screenshots/speedup.png)
+
+### Parallel Efficiency
+
+![Efficiency](screenshots/efficiency.png)
+
+---
+
 ## OpenMP Directives Used
 
 | Directive | Purpose |
